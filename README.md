@@ -1,7 +1,7 @@
 # Forkfy
 It is a simple <b>Recipe Searching</b> app
 
-The project uses the Food2Fork API - https://www.food2fork.com/about/api
+The project uses the Food2Fork API - https://www.food2fork.com/about/api.
 It is limitted to use 50 queries to the API server per a day.
 
 In order to start the project:
