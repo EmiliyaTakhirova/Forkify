@@ -1,4 +1,4 @@
-# Forkfy
+# Forkify
 It is a simple <b>Recipe Searching</b> app
 
 The project uses the Food2Fork API - https://www.food2fork.com/about/api.
